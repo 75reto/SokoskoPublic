@@ -1,0 +1,14 @@
+  #####
+  #   #
+  #*# #
+  #   #
+###*#.####
+#        #
+#   #*$# #
+##### @  #
+    ######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 79
+Set: Magic Sokoban 3 #36
+Comment: based on yasgood_28
+Website: www.egevad.nu/sven/

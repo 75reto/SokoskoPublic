@@ -1,0 +1,12 @@
+###############
+#@            #
+# *** *** *** #
+# * * * * * * #
+# . * * * * $ #
+### *** ***   #
+  #    #     ##
+  ############
+Author: skippy + Jordi Domenech
+Title: Level 74 Snake+
+Set: Magic Sokoban 6 #85
+Comment: based on level 91020 (Snake) posted in Let's Logic

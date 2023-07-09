@@ -1,0 +1,10 @@
+######
+#    #
+# #$ #
+# .$.#
+#  @ #
+######
+Author: Jordi Domenech
+Title: Level 2 Duh!
+Set: Magic Sokoban 7 #1
+Comment: for David W. Skinner

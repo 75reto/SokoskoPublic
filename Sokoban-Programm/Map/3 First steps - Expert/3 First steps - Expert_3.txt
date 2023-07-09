@@ -1,0 +1,16 @@
+ ##########
+ #        ###
+ # ******@. #
+ # *      # #
+###****** # #
+#       * # #
+#  ****** # #
+#         # #
+###$####### #
+  #         #
+  ###########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 4 S
+Set: Chrysalis variations 2 #22
+Comment: based on Chrysalis Collection 6 #12
+Website: www.letslogic.com

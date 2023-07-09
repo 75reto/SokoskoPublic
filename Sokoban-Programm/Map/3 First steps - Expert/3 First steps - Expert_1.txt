@@ -1,0 +1,12 @@
+########
+#  #   #
+# *  . #
+# * *  #
+# ** ###
+# * *  #
+# *$ * #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 2 K
+Set: Magic Sokoban #95

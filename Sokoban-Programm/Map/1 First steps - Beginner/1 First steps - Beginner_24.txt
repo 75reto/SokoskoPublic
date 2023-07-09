@@ -1,0 +1,12 @@
+#####
+#   ####
+#.$ #  #
+#.$  $.#
+#.$# $.#
+#  # @ #
+########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 25 Just push
+Set: Magic Sokoban 3 #9
+Comment: based on SE 797
+Website: www.egevad.nu/sven/

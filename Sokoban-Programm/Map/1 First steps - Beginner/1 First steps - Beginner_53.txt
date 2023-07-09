@@ -1,0 +1,12 @@
+ #######
+ #     #
+ #$### #
+ #  .. #
+ # #.. #
+##$## ##
+# $ $ #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 54 Tiny square
+Set: Magic Sokoban 2 #33

@@ -1,0 +1,13 @@
+   ####
+ ###  #
+ #.   #
+ #  * #
+### ###
+#   @ #
+#   $ #
+#  ####
+####
+Author: unknown + Jordi Domenech
+Title: Level 33 Breaking
+Set: Magic Sokoban 4 #6
+Comment: based on Souko Easy #5

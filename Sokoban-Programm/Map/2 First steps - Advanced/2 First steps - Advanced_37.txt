@@ -1,0 +1,14 @@
+ ####
+ #  ##
+ #   #
+##** ##
+#  *  ###
+#+ *    #
+#  **** #
+####  * #
+   #$   #
+   #  ###
+   ####
+Author: Jordi Domenech
+Title: Level 38 No bad
+Set: Magic Sokoban 4 #53

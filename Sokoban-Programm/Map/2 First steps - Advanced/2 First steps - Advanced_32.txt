@@ -1,0 +1,12 @@
+   ####
+  ## .####
+ ##@.$   #
+ # .$ #  #
+##.$ #   #
+#.$## $  #
+#       ##
+#  ##  ##
+########
+Author: Jordi Domenech
+Title: Level 33 Stairs
+Set: Magic Sokoban 2 #68

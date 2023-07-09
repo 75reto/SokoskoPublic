@@ -1,0 +1,18 @@
+########
+#      #
+# #### #
+# #  # #
+# #  # ####
+# #  #    #
+# #.****# #
+#    #  # #
+#### #$@# #
+   # #  # #
+   # #### #
+   #      #
+   ########
+Author: Sven Egevad + Jordi Domenech
+Title: Level 37
+Set: Magic Sokoban 3 #49
+Comment: based on SE 1374
+Website: www.egevad.nu/sven/

@@ -1,0 +1,11 @@
+  #####
+###  .#
+#   # #
+#@$$$.#
+#   # #
+#  ## #
+#    .#
+#######
+Author: Jordi Domenech
+Title: Level 32
+Set: Magic Sokoban #16

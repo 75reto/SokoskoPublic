@@ -1,0 +1,13 @@
+#######
+#  +  #
+# *$* #
+#. # .#
+#  #  #
+#  #  #
+# $#$ #
+#  #  #
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 94
+Set: Microban II variations #5
+Comment: based on Microban II #27

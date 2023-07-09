@@ -1,0 +1,17 @@
+#################
+#@      #       #
+# * * ***** . * #
+# *** *   * *** #
+# $ * *   *   * #
+### # ***** # ###
+  # ### ##### #
+  # #   #   # #
+  # #       # #
+  # ##.###### ##
+  #          $ #
+  ##########   #
+           #####
+Author: Yang Chao + Jordi Domenech
+Title: Level 7 404 Not found
+Set: The beautiful world of remodels 5 #38
+Website: sokoban.cn/

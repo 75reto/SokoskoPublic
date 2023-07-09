@@ -1,0 +1,14 @@
+    #####
+    #   #
+    #.  #
+  ###  .##
+  #  . . #  #####
+### # #  #  #   ####
+#   # ## ####$$    #
+# .  .        $$$$ #
+#####.###$#@#      #
+    #     ##########
+    #######
+Author: Jordi Domenech
+Title: Level 100 Original #1 reverse mode
+Set: Magic Sokoban 6 #21

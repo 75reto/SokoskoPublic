@@ -1,0 +1,14 @@
+ #########
+ #  #... #
+ #  $... #
+ #  ### ##
+### #   #
+# $$##$##
+#     $ #
+#  #  $ #
+#  #  @ #
+#########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 58
+Set: Magic Sokoban 3 #74
+Comment: based on kevin917

@@ -1,0 +1,16 @@
+       ####
+########  #
+#       * #
+#  #####  #
+# *    #  #
+#  # *   ##
+##### #   #
+#    .#   #
+#@$$#.#####
+#     #
+#######
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 5 Deux ? la fois+
+Set: Magic Sokoban 2 #99
+Comment: based on SokoStation #151 Deux ? la fois
+Website: www.sokoban.fr/

@@ -1,0 +1,14 @@
+    ####
+#####  ###
+#  ##    #
+#    $$$ #
+#  # $ $ #
+##$### ###
+#...   #
+#... @ #
+########
+Author: Hirohiko Nakamiya + Jordi Domenech
+Title: Level 30
+Set: Magic Sokoban #62
+Comment: based on Monster Sokoban 4-7
+Website: miya.s16.xrea.com/selection/bannin/

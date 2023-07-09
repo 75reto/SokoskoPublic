@@ -1,0 +1,14 @@
+#######
+#  #  #
+#     #
+#     #
+#### ##
+#  @  #
+# $**.#
+#  #  #
+#######
+Author: Marcis Berzins + Jordi Domenech
+Title: Level 41 Fix one
+Set: Magic Sokoban 5 #11
+Comment: based on C-Soko #20
+Website: mb13.eu.pn/csoko/

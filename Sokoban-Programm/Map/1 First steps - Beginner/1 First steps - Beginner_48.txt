@@ -1,0 +1,11 @@
+########
+#      #
+# $$   #
+##@##  #
+ #$ #$##
+ #.... #
+ #     #
+ #######
+Author: Jordi Domenech
+Title: Level 49 Pufi line
+Set: Magic Sokoban #17

@@ -1,0 +1,15 @@
+########
+#      #
+#***** #
+#    * #
+#  # * #
+# $#*  #
+#   *  #
+## *## #
+#  * . #
+# * # ##
+# *   @#
+########
+Author: Jordi Domenech
+Title: Level 46 Seven
+Set: Miniatures - Part Two #8

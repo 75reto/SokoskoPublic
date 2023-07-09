@@ -1,0 +1,23 @@
+################
+##           ###
+## #$#######$$ #
+##....   $...  #
+## # ########  #
+# $$     $  #  #
+#  # ###   .# ##
+#  #...# ##.# ##
+####...#$ # #$##
+#   # ## $# #  #
+# $ #  #   .   #
+# $$#  ###@ #  #
+# $   $$ #### ##
+#   #  #      ##
+################
+Author: Hacker Chris + Jordi Domenech
+Title: Level 21 Old style - For Premysl Zika
+Set: The beautiful world of remodels 5 #19
+Comment: based on level 55 (unsolvable) from the game Sokoban 
+(WE, 1991) by Hacker Chris, for ZX Spectrum.
+I dedicate this remodel to Premysl Zika, that made this nice comment: 
+"One of the most beautiful and most poetic studies, which I know. 
+Difficult, but fantastic" (Premysl Zika).

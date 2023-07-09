@@ -1,0 +1,14 @@
+#####
+#   #######
+#  . . . .#
+## $ $ $  #
+######@####
+#  $ $ $ #
+#  . . . #
+#######$ #
+      #  #
+      ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 24
+Set: Microban III variations #21
+Comment: based on Microban III #42

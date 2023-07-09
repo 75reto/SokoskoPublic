@@ -1,0 +1,17 @@
+ #####
+ #   ####
+ #$# #  #####
+ #     ...  #
+ #$####.##  #
+## # ... # ###
+# $  ### #   #
+# ##$# # #   #
+#    ###$## ##
+####  *     ##
+  # $ # ###  #
+  # # @ # #$ #
+  #   ### #  #
+  #####   ####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 66
+Set: Alberto Garcia remixed #56

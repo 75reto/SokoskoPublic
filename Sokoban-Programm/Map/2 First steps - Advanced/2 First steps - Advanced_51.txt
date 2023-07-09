@@ -1,0 +1,14 @@
+#########
+#      ##
+# $****##
+#  *  .@#
+#  *   ##
+## ****##
+#  $  .##
+#  *  . #
+##$**** #
+##      #
+#########
+Author: Jordi Domenech
+Title: Level 52 E to S - For Erim Sever
+Set: Magic Sokoban 5 #69

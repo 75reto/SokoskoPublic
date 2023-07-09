@@ -1,0 +1,14 @@
+  ######
+  #    #
+  # ## #
+###$  .###
+# $@$. . #
+# #$# .# #
+# # ## # #
+# #    # #
+# ###### #
+#        #
+##########
+Author: Jordi Domenech
+Title: Level 55 Move the star
+Set: Magic Sokoban 2 #92

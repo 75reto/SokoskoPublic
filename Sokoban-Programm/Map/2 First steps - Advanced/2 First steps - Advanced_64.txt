@@ -1,0 +1,17 @@
+   ####    #####
+   #  #    #   #
+   # $#    #$# ##
+   #  ######    #
+   ## . $ .  $# #
+#####$.#.#. #   #
+#   # .#.#.$#####
+# $ @ .$. . #
+####  $.$.$ ##
+  #  ######  #
+  # $#    #$ #
+  #  #    #  #
+  ####    ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 65 W letter
+Set: Microban IV variations #23
+Comment: based on Microban IV #85

@@ -1,0 +1,14 @@
+   ####
+####  #####
+#  #  #   ####
+# $$ $# #$#  #
+#  #      $  #
+## ##### ##  #
+##     .*.#$##
+#  #$#$...#  #
+#    # ...   #
+###  ### @#  #
+  #### #######
+Author: Jordi Domenech
+Title: Level 23 ZiKo style hard
+Set: Miniatures - Part Two #24

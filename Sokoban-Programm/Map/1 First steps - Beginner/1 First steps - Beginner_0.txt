@@ -1,0 +1,9 @@
+  ####
+ ##@ #
+## * #
+#  $ #
+#  . #
+######
+Author: Jordi Domenech
+Title: Level 1 Start
+Set: Magic Sokoban 4 #1

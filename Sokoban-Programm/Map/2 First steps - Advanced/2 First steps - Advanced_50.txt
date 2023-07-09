@@ -1,0 +1,12 @@
+  ######
+###    #
+#  @ # #
+#. * # #
+# #*## #
+#  * $ #
+## * # #
+ # *   #
+ #######
+Author: Kevin Cassol
+Title: Level 51
+Set: Magic Sokoban #69

@@ -1,0 +1,16 @@
+   ####
+   #  #####
+   #      #
+####$$$$$@#
+#  #  #   #
+#  # ######
+#  *  #
+#.....#
+#     #
+#  ####
+####
+Author: David Buchweitz + Jordi Domenech
+Title: Level 57
+Set: Magic Sokoban 3 #47
+Comment: based on Chrysalis Collection 4 #29 Parallelity
+Website: www.letslogic.com

@@ -1,0 +1,10 @@
+###########
+#    *    #
+#  . . .  #
+## ##### ##
+ # $ $ $ #
+ #   @   #
+ #########
+Author: Jordi Domenech
+Title: Level 24 Go up!
+Set: Magic Sokoban 7 #3

@@ -1,0 +1,13 @@
+#############
+#    #      #
+# ## #$#### #
+# #  $@$  # #
+# # # $ # # #
+# # #  ## # #
+# # ..... # #
+# ####$# ## #
+#      #    #
+#############
+Author: Jordi Domenech
+Title: Level 54 Chinese water lily - For Tui Leshan
+Set: Magic Sokoban #97

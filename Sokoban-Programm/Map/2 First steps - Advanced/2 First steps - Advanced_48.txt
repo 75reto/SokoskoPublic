@@ -1,0 +1,11 @@
+ ######
+ #    ###
+ # ##$  #
+##.##   #
+# *  **##
+# @    #
+###  ###
+  ####
+Author: Kevin Cassol + Jordi Domenech
+Title: Level 49
+Set: Magic Sokoban #87

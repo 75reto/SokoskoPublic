@@ -1,0 +1,11 @@
+#######
+#   # #
+# $ * #
+##* . #
+# *  ##
+# @   #
+#######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 40
+Set: Magic Sokoban 3 #22
+Comment: based on Scoria #10

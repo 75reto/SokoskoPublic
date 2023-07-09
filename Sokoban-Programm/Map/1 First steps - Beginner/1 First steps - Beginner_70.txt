@@ -1,0 +1,10 @@
+   #####
+ ###   #
+ #   $ #
+##$..$##
+# $.. #
+# @ ###
+#####
+Author: Jordi Domenech
+Title: Level 71 Pufi square
+Set: Magic Sokoban #26

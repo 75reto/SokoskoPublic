@@ -1,0 +1,14 @@
+   #####
+####   #
+# @$$$ #
+# ##   #
+# #. ###
+# # $ #
+# #.# ##
+#. .   #
+#      #
+########
+Author: Shaggath + Jordi Domenech
+Title: Level 21
+Set: Magic Sokoban 5 #45
+Comment: V2009 #26 arranged

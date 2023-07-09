@@ -1,0 +1,14 @@
+##########
+#        #
+# ###### #
+# #  $ $$##
+# #     $ #
+# # ##### #
+# #...  $ #
+#  .$.# @ #
+#### .#####
+   ####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 56
+Set: Magic Sokoban 2 #81
+Comment: based on Chuchubi 1 #32

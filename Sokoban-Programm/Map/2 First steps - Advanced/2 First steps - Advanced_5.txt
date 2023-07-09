@@ -1,0 +1,13 @@
+  #######
+  #     #
+  # ### ##
+  # # $  #
+  #  ..  #
+  # #..###
+### ## #
+# $$$  #
+# @ #  #
+########
+Author: Jordi Domenech
+Title: Level 6
+Set: Magic Sokoban #60

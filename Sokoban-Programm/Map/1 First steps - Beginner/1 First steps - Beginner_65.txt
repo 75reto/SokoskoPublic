@@ -1,0 +1,12 @@
+####
+#  #####
+#      #
+# .#.# #
+##$$$$ #
+# . .###
+# @  #
+######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 66
+Set: Microban III variations #3
+Comment: based on Microban III #15

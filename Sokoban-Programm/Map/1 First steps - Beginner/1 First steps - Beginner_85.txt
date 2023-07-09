@@ -1,0 +1,12 @@
+ ########
+ #      #
+ #$.*.$ #
+## * * ##
+# $.*.$#
+#   @  #
+########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 86
+Set: Magic Sokoban 6 #31
+Comment: based on SokoStation #355 Circulaire
+Website: www.sokoban.fr/

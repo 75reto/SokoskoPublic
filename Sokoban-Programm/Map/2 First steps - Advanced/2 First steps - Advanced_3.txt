@@ -1,0 +1,11 @@
+########
+#   #  #
+#.$@ $.#
+#.$##$ #
+#.   $.#
+#.$##$.#
+#      #
+########
+Author: Kevin Cassol
+Title: Level 4
+Set: Magic Sokoban #43

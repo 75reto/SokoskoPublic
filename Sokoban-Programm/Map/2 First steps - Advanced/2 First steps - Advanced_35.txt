@@ -1,0 +1,13 @@
+    #####
+#####   #
+#  $    #
+#  $## ##
+##.$.. .#
+ # $#   #
+ # @#####
+ #  #
+ ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 36
+Set: Magic Sokoban 5 #59
+Comment: Sasquatch IV #2 variant

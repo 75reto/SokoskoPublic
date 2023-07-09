@@ -1,0 +1,9 @@
+  #####
+  #  .##
+###.$. #
+#  $$# #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 13
+Set: Magic Sokoban #15

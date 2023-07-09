@@ -1,0 +1,12 @@
+ ######
+ #    #
+ # ##$###
+ # # $  #
+ # #    #
+## # ## ##
+#  ...*$ #
+#   ## @ #
+##########
+Author: Jordi Domenech
+Title: Level 12
+Set: Magic Sokoban 3 #68

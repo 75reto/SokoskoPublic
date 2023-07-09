@@ -1,0 +1,10 @@
+    ####
+#####  ###
+# $ $ $$ #
+# # #..# #
+# @  ..  #
+##########
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 43
+Set: Magic Sokoban 4 #15
+Comment: kbr1633 arranged

@@ -1,0 +1,11 @@
+########
+#  . . #
+# .#.# #
+# $$$$ #
+##    ##
+ ###@ #
+   ####
+Author: Howard Abed + Jordi Domenech
+Title: Level 53
+Set: Magic Sokoban 2 #29
+Comment: Third Set #26 arranged

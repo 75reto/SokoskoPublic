@@ -1,0 +1,11 @@
+   ####
+   #  ##
+####   #
+#  $ $ #
+# .$#$ #
+## ... #
+ # @#  #
+ #######
+Author: Jordi Domenech
+Title: Level 53 Perplexity
+Set: Magic Sokoban #74

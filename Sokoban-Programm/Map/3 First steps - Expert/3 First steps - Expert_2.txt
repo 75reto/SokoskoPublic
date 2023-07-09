@@ -1,0 +1,14 @@
+    #####
+   ##   ## #####
+  ##  *  ###   ##
+ ##  * *  #  *  ##
+##  * # *   * *  ##
+#  * ### * * # *  ##
+# . ## # #*# ## *$@#
+#####  #  .  ### $ #
+       ####### #   #
+               #####
+Author: laizhufu + Jordi Domenech
+Title: Level 3 M - For laizhufu
+Set: Magic Sokoban #91
+Website: sokoban-jd.blogspot.com.es/2015/04/tribute-to-laizhufu.html

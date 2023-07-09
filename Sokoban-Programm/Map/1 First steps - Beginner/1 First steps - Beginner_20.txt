@@ -1,0 +1,13 @@
+    ####
+#####  #
+#   #  #
+# $ @  #
+## ###.##
+ #$$ #. #
+ #    . #
+ #####  #
+     ####
+Author: Monry + Jordi Domenech
+Title: Level 21 Tribute to Monry
+Set: Magic Sokoban 3 #4
+Comment: based on FirstStep 104

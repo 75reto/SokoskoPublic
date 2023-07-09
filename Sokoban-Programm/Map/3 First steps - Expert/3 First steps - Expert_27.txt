@@ -1,0 +1,21 @@
+ #####
+ #   #
+ # #$#####
+ #   #   #
+ # * ... #
+ # * # # #
+ # * # $ #
+ # * # ###
+ # *$# #
+ # . # #
+ # * # #
+ # * # ##
+##$* #  #
+#  * ##*##
+#  * . $ #
+#  * # @ #
+##########
+Author: TIAOA + Jordi Domenech
+Title: Level 28
+Set: The beautiful world of remodels 5 #35
+Comment: based on SBM 1

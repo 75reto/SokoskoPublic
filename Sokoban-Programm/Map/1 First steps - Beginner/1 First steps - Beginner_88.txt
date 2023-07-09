@@ -1,0 +1,12 @@
+ #######
+ #     #
+ #.##  ##
+## ## $ #
+# $  $$ #
+# ... # #
+#  #### #
+# @     #
+#########
+Author: Jordi Domenech
+Title: Level 89
+Set: Miniatures - Part One #19

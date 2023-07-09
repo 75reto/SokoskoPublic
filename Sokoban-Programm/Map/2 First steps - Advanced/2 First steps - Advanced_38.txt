@@ -1,0 +1,15 @@
+   #####
+####   #
+#  # # ##
+# $$ $  #
+#  #### #
+##... # #
+# ...   #
+# #  # ##
+#    $$ #
+#####$  #
+    # @ #
+    #####
+Author: Jordi Domenech
+Title: Level 39 Underground six
+Set: Magic Sokoban 3 #63

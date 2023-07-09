@@ -1,0 +1,13 @@
+   ####
+####@ #
+#  $$$##
+# ##   #
+# ## # #
+#  ... #
+#   ####
+#####
+Author: Evgeny Grigoriev + Jordi Domenech
+Title: Level 68
+Set: Magic Sokoban 2 #26
+Comment: based on grigr2001 #55
+Website: grigr.narod.ru/sokoban.htm

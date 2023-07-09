@@ -1,0 +1,11 @@
+########
+#      #
+# #... #
+#   # ##
+##$$$ #
+ #  @ #
+ ######
+Author: Ian Parberry + Jordi Domenech
+Title: Level 8
+Set: Magic Sokoban 6 #5
+Comment: based on Set 2 #52

@@ -1,0 +1,13 @@
+    #####
+#####   #
+#    $  #
+#..****##
+#    $ #
+### ## #
+  #   @#
+  ######
+Author: Erim Sever + Jordi Domenech
+Title: Level 43
+Set: Magic Sokoban 6 #38
+Comment: erim250 arranged
+Website: www.erimsever.com/

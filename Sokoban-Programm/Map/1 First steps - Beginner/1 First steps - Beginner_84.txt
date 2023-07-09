@@ -1,0 +1,14 @@
+ ######
+ #    #
+## ## #
+#   **#
+# $   #
+##$#..#
+ # ## #
+ #  @ #
+ ######
+Author: Sven Egevad + Jordi Domenech
+Title: Level 85 Pairs
+Set: Magic Sokoban 6 #20
+Comment: based on SE 1631
+Website: www.egevad.nu/sven/

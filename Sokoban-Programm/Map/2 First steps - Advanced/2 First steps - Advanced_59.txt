@@ -1,0 +1,13 @@
+#####
+# @ #######
+# $     $ #
+##$####.# #
+#     ... #
+# $ $ #.###
+#####    #
+    ##   #
+     #####
+Author: Morganine + Jordi Domenech
+Title: Level 60
+Set: Magic Sokoban 5 #92
+Comment: Sokomet #38 arranged

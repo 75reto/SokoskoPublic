@@ -1,0 +1,14 @@
+    #####
+ ####   #
+ #  # # #
+ # ..   #
+ # .##$ #
+## ..# ###
+#  # $   #
+# $##$$  #
+# $   # ##
+#####.@ #
+    #####
+Author: Kevin Cassol
+Title: Level 31
+Set: Magic Sokoban #68

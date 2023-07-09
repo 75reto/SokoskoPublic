@@ -1,0 +1,13 @@
+#####  ####
+#   ####  #
+#         #
+## #####  #
+##$# @ # ###
+# $ .#$#$  #
+# # . $    #
+# ...#######
+######
+Author: Thomas Reinke + Jordi Domenech
+Title: Level 69
+Set: Magic Sokoban 5 #73
+Comment: based on TBox #34

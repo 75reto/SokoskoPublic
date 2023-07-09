@@ -1,0 +1,12 @@
+   ####
+   #  #
+   # .###
+   #$.  #
+#### .$ #
+#  $$.###
+#   @ #
+#######
+Author: David W. Skinner + Jordi Domenech
+Title: Level 62 Line up
+Set: Microban II variations #18
+Comment: based on Microban II #62

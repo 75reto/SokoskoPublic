@@ -1,0 +1,10 @@
+     #####
+###### . #
+#   ##$. #
+#@$$$  . #
+##  #  . #
+ #  ######
+ ####
+Author: Jordi Domenech
+Title: Level 20
+Set: Magic Sokoban #1

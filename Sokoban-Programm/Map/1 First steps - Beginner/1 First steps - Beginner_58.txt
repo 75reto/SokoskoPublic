@@ -1,0 +1,13 @@
+#######
+#     #
+#   $$#
+# ##  ##
+#  #$  #
+##.#   #
+# .##$##
+# .    #
+# . @  #
+########
+Author: Jordi Domenech
+Title: Level 59
+Set: Miniatures - Part One #13

@@ -1,0 +1,16 @@
+##########
+#   ##   #
+#  .....$##
+## $ $ $$ #
+## ####  @#
+#   # #####
+# $ #
+## .#
+ #$ ##
+ # . #
+ #$  #
+ # .##
+ ####
+Author: Alberto Garcia + Jordi Domenech
+Title: Level 26
+Set: Alberto Garcia remixed #45

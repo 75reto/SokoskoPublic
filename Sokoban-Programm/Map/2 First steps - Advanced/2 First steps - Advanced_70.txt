@@ -1,0 +1,17 @@
+ #########
+ #       #
+ # #####$#####
+ # #   #     #
+ # # $    $  #
+## ## ##### ##
+#  #...  #   #
+#   ...# # $ #
+#  #...# # $ #
+##   @ # $$$ #
+ ####### $   #
+       ###   #
+         #####
+Author: Eric F. Tchong + Jordi Domenech
+Title: Level 71
+Set: Magic Sokoban 5 #64
+Comment: based on Dushi 4 #3 Svengali

@@ -1,0 +1,11 @@
+########
+#  ##  ###
+#   ..   #
+#  $#.$$ #
+###  .$@##
+  #######
+Author: Marcis Berzins
+Title: Level 83
+Set: Magic Sokoban 5 #25
+Comment: C-Soko #44 Four Boxes 12
+Website: mb13.eu.pn/csoko/

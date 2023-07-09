@@ -1,0 +1,13 @@
+  ####
+ ##  ####
+ # ...  #
+ #   .# #
+##$#$## #
+# $ $ @ #
+#     ###
+#######
+Author: David Buchweitz + Jordi Domenech
+Title: Level 80
+Set: Magic Sokoban 5 #9
+Comment: based on Chrysalis Collection 6 #49
+Website: www.letslogic.com

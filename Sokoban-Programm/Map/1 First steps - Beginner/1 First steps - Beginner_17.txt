@@ -1,0 +1,10 @@
+##########
+#  #  ...#
+# $$$#@  #
+#    ## ##
+###     #
+  ####  #
+     ####
+Author: Jordi Domenech
+Title: Level 18
+Set: Magic Sokoban 5 #10

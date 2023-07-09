@@ -1,0 +1,14 @@
+#######
+#     #
+# ### ###
+# # $   #
+# #     #
+# $$ #$##
+# $  # ##
+## ###. #
+ # .+.. #
+ ########
+Author: Morganine + Jordi Domenech
+Title: Level 62
+Set: Magic Sokoban 6 #52
+Comment: based on a level 7249 posted in Let's Logic

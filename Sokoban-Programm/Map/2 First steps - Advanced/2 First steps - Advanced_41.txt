@@ -1,0 +1,10 @@
+#######
+#     #
+#  ***###
+##  $   #
+ # ***  #
+ #  +   #
+ ########
+Author: Jordi Domenech
+Title: Level 42 Baffling 2
+Set: Magic Sokoban 5 #58

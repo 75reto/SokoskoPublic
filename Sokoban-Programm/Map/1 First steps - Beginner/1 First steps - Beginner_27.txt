@@ -1,0 +1,10 @@
+#######
+#. .  #
+#. *  #
+## # ##
+# $$$ #
+#  @  #
+#######
+Author: Jordi Domenech
+Title: Level 28 Magic box
+Set: Miniatures - Part One #6

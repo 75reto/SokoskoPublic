@@ -1,0 +1,15 @@
+####
+#  #######
+#.**.... #
+#  ### # #
+# $#@# # #
+#  #   # #
+# $$$$ # #
+#      # #
+#### ### #
+   #     #
+   #######
+Author: Kevin B. Reilly + Jordi Domenech
+Title: Level 10
+Set: Magic Sokoban 3 #96
+Comment: based on kbr1211

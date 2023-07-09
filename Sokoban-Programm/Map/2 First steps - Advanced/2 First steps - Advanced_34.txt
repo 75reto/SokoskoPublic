@@ -1,0 +1,15 @@
+#######
+#. #  #####
+#.$# $#   #
+#. #   ...#
+# $# $#####
+#  #  #
+# $# $#
+#     #
+# @#  #
+#######
+Author: Peter Asztalos + Jordi Domenech
+Title: Level 35
+Set: Magic Sokoban 5 #60
+Comment: AKK Informatika #12 arranged
+Website: m-forum.hu/sokoban.php

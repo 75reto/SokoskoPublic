@@ -1,0 +1,15 @@
+       ####  #####
+  ######  ####   #
+ ##              ##
+ # $#$ $  ## ###  #
+ #.    ##### .... #
+##.##### @ # .... #
+#      #$ $####.###
+#   #  $ $ $ $  #
+####### $ $ $ #.#
+      #         #
+      ###########
+Author: Zivojin Trifunovic + A1master + Jordi Domenech
+Title: Level 12 Banja Koviljaca+
+Set: Magic Sokoban 6 #71
+Comment: based on Banja Koviljaca #1 remodeled by A1master

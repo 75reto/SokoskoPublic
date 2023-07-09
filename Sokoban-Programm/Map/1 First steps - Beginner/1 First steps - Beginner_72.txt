@@ -1,0 +1,12 @@
+  #######
+  #  .  #
+ ###$#  #
+ #  . . #
+###$#$ ##
+#  . . .#
+# $#$#$ #
+#  @ #  #
+#########
+Author: Jordi Domenech
+Title: Level 73 Strange tree
+Set: Magic Sokoban #22

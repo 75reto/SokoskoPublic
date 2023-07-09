@@ -1,0 +1,12 @@
+     ####
+######  #
+#   ##@ #
+#    #$.#
+##    $.#
+ ##  #$.#
+  ####  #
+     ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 19
+Set: Microban III variations #27
+Comment: based on Microban III #64 LOMA 1e

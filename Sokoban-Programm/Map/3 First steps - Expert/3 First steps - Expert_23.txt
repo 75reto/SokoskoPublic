@@ -1,0 +1,23 @@
+########
+#      #
+# .*** #
+#    * #
+# **** #
+# #    #
+# **** #
+#    *##
+# **** #
+# #    #
+# **** #
+#    * #
+# **** #######
+# #          #
+# * *#* *#*# #
+# * * * * *  #
+# *** *** *$ #
+#           @#
+##############
+Author: laizhufu + Jordi Domenech
+Title: Level 24 L
+Set: The beautiful world of remodels 4 #21
+Website: sokoban-jd.blogspot.com.es/2015/04/tribute-to-laizhufu.html

@@ -1,0 +1,13 @@
+#####
+# @ #   ####
+# $$#####  #####
+# $ # . #  .   #
+# $     #  #   #
+######. .  #####
+     ####  #
+        #  #
+        ####
+Author: Marcus Hof + Jordi Domenech
+Title: Level 7
+Set: Magic Sokoban 2 #41
+Comment: based on Revenge 15 #10

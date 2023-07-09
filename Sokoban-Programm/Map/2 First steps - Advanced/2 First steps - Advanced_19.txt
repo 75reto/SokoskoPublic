@@ -1,0 +1,12 @@
+#########
+#   ##  #
+#   ...$#
+## # #. #
+#  # ##$##
+#    $ $ #
+#  ### @ #
+#### #####
+Author: Shaggath + Jordi Domenech
+Title: Level 20
+Set: Magic Sokoban 5 #30
+Comment: V2009 #114 arranged

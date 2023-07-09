@@ -1,0 +1,15 @@
+     ####
+    #   #
+   #  # ###
+  #  #  *  #
+ #  #  * *  #
+#  #  * * *  #
+# #  * * * *  #
+#   * * * * *  ####
+#  * * * * * *    #
+# * * * . * * *@$ #
+###################
+Author: Andrej Cerjak + Jordi Domenech
+Title: Level 29 Triangle+
+Set: The beautiful world of remodels 6 #48
+Comment: based on AC Easy #14 Triangle

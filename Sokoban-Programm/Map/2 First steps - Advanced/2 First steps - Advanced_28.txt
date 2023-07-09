@@ -1,0 +1,8 @@
+#########################
+#  *   *  *.*    *    * #
+# . $ * *  $  # *$*  *  #
+#@ *   *   *  *  .  *   #
+#########################
+Author: Jordi Domenech
+Title: Level 29 Walking
+Set: Magic Sokoban #59

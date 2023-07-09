@@ -1,0 +1,17 @@
+      #####
+#######   ##
+#          #
+# #$***#$# ##
+#   # *     #
+###   *#### #
+  ### *   # #
+    ##*## # ##
+    # *  @#  #
+    # ***..  #
+    #     #  #
+    ##########
+Author: David Buchweitz + Jordi Domenech
+Title: Level 76
+Set: Chrysalis variations 2 #26
+Comment: based on Chrysalis Collection 6 #42
+Website: www.letslogic.com

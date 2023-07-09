@@ -1,0 +1,12 @@
+ ####
+ #  ###
+ #$.  #
+ # .# #
+##$.  #
+# $ ###
+# @ #
+#####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 29
+Set: Microban II variations #3
+Comment: based on Microban II #20

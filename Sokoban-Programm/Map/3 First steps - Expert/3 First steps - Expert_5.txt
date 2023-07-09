@@ -1,0 +1,17 @@
+ #########
+##       ####
+#  * * * *  #
+# # #####   #
+# #   #   ###
+#@* * * *  #
+## #####*  #
+ # #   # ###
+ # #$#.#   #
+ #         #
+ #####   ###
+     #####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 6
+Set: Magic Sokoban 4 #100
+Comment: based on SE 1622
+Website: www.egevad.nu/sven/

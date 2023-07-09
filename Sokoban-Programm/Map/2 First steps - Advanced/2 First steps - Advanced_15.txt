@@ -1,0 +1,10 @@
+#####
+#   #
+# **###
+#     #
+#.**$ #
+#   @ #
+#######
+Author: Jordi Domenech
+Title: Level 16 Baffling
+Set: Magic Sokoban 5 #1

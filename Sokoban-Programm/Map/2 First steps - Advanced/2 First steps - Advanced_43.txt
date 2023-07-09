@@ -1,0 +1,12 @@
+  #####
+###   #
+# @$# ##
+# *$.  #
+#  #   #
+##.# ###
+ #   #
+ #####
+Author: Shaggath + Jordi Domenech
+Title: Level 44
+Set: Magic Sokoban 6 #44
+Comment: based on Mulholland 2 #56

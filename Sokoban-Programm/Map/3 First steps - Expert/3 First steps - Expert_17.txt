@@ -1,0 +1,22 @@
+        #########
+        #       #
+#####   #  $ $  #
+#   ##### #$## ##
+#            # #
+## #######...# #
+ # ###   #. .# #
+ #  ...$ $...$ #
+ # #. .# ### ####
+## #... ...# #  ######
+#  #$#$#. .# # $ $ $ #
+# $    #...   $ $ $  #
+#  ##  ##$# ## $ $ $ #
+######## $  # $ $ $$ #
+       #    #  @     #
+       ###############
+Author: Jordi Domenech
+Title: Level 18 Tres eran tres...
+Set: Life #29
+Comment: "Tres eran tres las hijas de Elena. / Tres eran tres 
+y ninguna era buena..." (popular Spanish Romance). This puzzle 
+is inspired by the unfinished level of Monry known as "Nancy".

@@ -1,0 +1,17 @@
+    ####
+    #  #
+    #.$#
+    #  #
+#####  #####
+# $  *@  . #
+# .  **  $ #
+#####  #####
+    #  #
+    #$.#
+    #  #
+    ####
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 25
+Set: Monde variations #32
+Comment: based on SokoStation #79 Intersection
+Website: www.sokoban.fr/

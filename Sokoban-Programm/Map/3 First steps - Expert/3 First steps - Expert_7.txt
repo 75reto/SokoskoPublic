@@ -1,0 +1,19 @@
+ ############
+ #          #
+## ######## #
+#         # #
+# *###### # #
+# . #   # # #
+# *$# $   # #
+# * ## ## # #
+# *     # # #
+# * #   # # #
+# * ##### # #
+#.*       # #
+# ######### #
+#     @     #
+#############
+Author: Eric F. Tchong + Marko Dzekic + Jordi Domenech
+Title: Level 8
+Set: Magic Sokoban 6 #95
+Comment: based on Dushi 10 #26 remodeled by Marko Dzekic

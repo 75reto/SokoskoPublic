@@ -1,0 +1,15 @@
+##########
+#  . . . #
+#  $ $ $ #
+##.#######
+#     $  #
+#@ $     #
+#######.##
+# $ $ $  #
+# . . .  #
+##########
+Author: Ghislain Martin + Jordi Domenech
+Title: Level 47 Donkey Kong+
+Set: Magic Sokoban 6 #36
+Comment: SokoStation #306 extension
+Website: www.sokoban.fr/

@@ -1,0 +1,14 @@
+    ####
+ ####  #
+ #  **.#   #
+## ## .#  #
+ #    .####
+ ###$$$   #
+   #      #
+   #@###  #
+   ### ####
+Author: Marcis Berzins
+Title: Level 45 Puppy
+Set: Magic Sokoban 5 #28
+Comment: C-Soko #55 Five Boxes 10 - Puppy (arranged)
+Website: mb13.eu.pn/csoko/

@@ -1,0 +1,11 @@
+#########
+#  ...  #
+#  # #  #
+# $$@$  #
+#  ###  #
+#### ####
+Author: Roger Delaporte + Jordi Domenech
+Title: Level 39 Two halves
+Set: Magic Sokoban 3 #21
+Comment: based on rd031
+Website: roger.delaporte.free.fr/

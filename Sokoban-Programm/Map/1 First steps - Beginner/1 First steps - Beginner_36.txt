@@ -1,0 +1,11 @@
+##########
+#        #
+# ###### #
+# #    # ##
+# #    #  #
+#  .****$ #
+#### @ #  #
+   ########
+Author: Jordi Domenech
+Title: Level 37
+Set: Magic Sokoban 3 #15

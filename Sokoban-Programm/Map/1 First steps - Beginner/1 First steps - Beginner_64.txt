@@ -1,0 +1,14 @@
+        ####
+#########  #
+#   ## $   #
+#  $   ##  #
+### #...# ##
+  # #.$.#$##
+  # #.$ #  #
+  #   $    #
+  # @#######
+  ####
+Author: David W. Skinner + Jordi Domenech
+Title: Level 65
+Set: Microban I variations #32
+Comment: based on Microban #134

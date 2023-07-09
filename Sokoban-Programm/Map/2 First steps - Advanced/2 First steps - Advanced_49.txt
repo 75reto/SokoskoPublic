@@ -1,0 +1,11 @@
+####
+#  #####
+# *  . #
+# ** * #
+# * ** #
+# *$ * #
+#   @  #
+########
+Author: Jordi Domenech
+Title: Level 50 N minor
+Set: Magic Sokoban #80

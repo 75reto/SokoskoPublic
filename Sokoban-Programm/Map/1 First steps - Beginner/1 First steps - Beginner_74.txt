@@ -1,0 +1,11 @@
+ #####
+ #   #####
+ # # ..  #
+ # # ..  #
+##$#$## ##
+# $ $   #
+# @ #   #
+#########
+Author: Jordi Domenech
+Title: Level 75
+Set: Magic Sokoban #29

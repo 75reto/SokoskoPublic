@@ -1,0 +1,13 @@
+#######
+#     #
+# # # #
+# $.# #
+##$ . #
+ #@* ##
+ ##  #
+  ####
+Author: Serg Belyaev + Jordi Domenech
+Title: Level 70
+Set: Magic Sokoban 6 #30
+Comment: svb171 arranged
+Website: svb-sokoban.narod.ru/

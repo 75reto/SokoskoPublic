@@ -1,0 +1,13 @@
+  #########
+  #       #
+### ##### #
+#  $ .....#
+# $    # .#
+## #####$##
+#   $ $ $ #
+#   #   @ #
+###########
+Author: Marcus Hof + Jordi Domenech
+Title: Level 61
+Set: Magic Sokoban 5 #82
+Comment: Revenge 39 #15 variant

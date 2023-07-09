@@ -1,0 +1,13 @@
+#### ####
+#  ###  #
+# .. .. #
+# . # . #
+# *$#$* #
+#   #   #
+# $$#$$ #
+#   #   #
+##@ #  ##
+ #######
+Author: Jordi Domenech
+Title: Level 32 Mirror
+Set: Magic Sokoban 2 #56

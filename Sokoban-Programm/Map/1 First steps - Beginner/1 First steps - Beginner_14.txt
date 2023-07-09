@@ -1,0 +1,11 @@
+   #####
+   #   #
+####$  #
+#   $ ##
+# # #  #
+# @ . .#
+########
+Author: Shaggath + Jordi Domenech
+Title: Level 15 Big German boot
+Set: Magic Sokoban #21
+Comment: based on V2010 #2

@@ -1,0 +1,20 @@
+  ###########
+ ##         ##
+##  ***.***  ##
+#  *   *   *  #
+# *  #####  * #
+# * #     # * #
+# * #     # * #
+# *  #   #  * #
+#  *  # #  *  #
+##  *  #  *  ##
+ ##  * # *  ##
+  ##  *$*  ##
+   ##  *  ##
+    ## @ ##
+     #####
+Author: Jordi Domenech
+Title: Level 25 Heart
+Set: Life #13
+Comment: replica of Tertius gradus ad Olympo #42 (Heart) 
+by Premysl Zika

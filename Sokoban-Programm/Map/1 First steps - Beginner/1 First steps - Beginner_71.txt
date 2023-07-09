@@ -1,0 +1,12 @@
+#####
+#   #
+# $ #
+#@$$##
+##$..#
+ # ..#
+ #   #
+ #####
+Author: Frantisek Pokorny + Jordi Domenech
+Title: Level 72 Pufi square 2
+Set: Magic Sokoban #33
+Comment: based on LOMA #10-07

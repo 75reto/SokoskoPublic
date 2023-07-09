@@ -1,0 +1,14 @@
+ #########
+ #       #
+ #.##### #
+ #.    # #
+##.##$$$ #
+#  ##  ###
+#     @#
+#  #####
+####
+Author: Sven Egevad + Jordi Domenech
+Title: Level 2
+Set: Magic Sokoban 2 #44
+Comment: SE 811 variation
+Website: www.egevad.nu/sven/

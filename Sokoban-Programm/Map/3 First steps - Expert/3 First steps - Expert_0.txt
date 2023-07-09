@@ -1,0 +1,16 @@
+#######
+#  #  #     ####
+# $$ $#######  ####
+#  #  ....... $#  #
+## #  ###.###   $ #
+ # ##  ##.#@#$##  #
+## ###$ #.# #  # ##
+#      $#.# #     #
+#   ##$ # #   $#$ #
+######      #  #  #
+     ####  ########
+        ####
+Author: Hidemitsu Kobayashi + Jordi Domenech
+Title: Level 1
+Set: The beautiful world of remodels 3 #13
+Comment: Sokoban Perfect #127 g
